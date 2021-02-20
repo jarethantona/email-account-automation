@@ -1,4 +1,4 @@
-# email-administration-application
+# email-account-automation
 
 ## Application Information
 
